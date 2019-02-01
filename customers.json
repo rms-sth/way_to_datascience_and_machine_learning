@@ -1,0 +1,11 @@
+[
+{"type":"header","version":"4.8.2","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"db_ktm"},
+{"type":"table","name":"customers","database":"db_ktm","data":
+[
+{"id":"1","name":"Manish Basnyat","image":null,"email":"manishbasnyat182@gmail.com","password":"$2y$10$k6UbClXDSy6oYuxxzpWR6uG5lwPcLk9kv3CNyWE7WXYWMMvYO5r6.","gender":null,"address":null,"username":null,"contact":null,"facebook_url":null,"twitter_url":null,"linkedin_url":null,"google_url":null,"verifyToken":"6683","status":"1","remember_token":"sxoIOW7q3DhZC14fu2dIWK5ObWxoy4mN2Au49ZYfrFw8ha13uBJFkhI0gC05","created_at":"2018-11-20 07:31:17","updated_at":"2018-11-20 07:31:17"},
+{"id":"2","name":"Seeder2 Sapkota","image":null,"email":"seeder2sapkota@gmail.com","password":"$2y$10$YXIRGFplgA4NGsEg5\/F2Qu\/GDIlUBZ9DVIU0pkgv2PZp2XIsCBXXa","gender":null,"address":null,"username":null,"contact":null,"facebook_url":null,"twitter_url":null,"linkedin_url":null,"google_url":null,"verifyToken":"3453","status":"1","remember_token":"qqkjvgJPiG0kTZfnH6qBTWTIdXXCKPmF6ayQTOjwPtNPx3Q19uW9kSnGDza3","created_at":"2018-11-20 07:31:18","updated_at":"2018-11-20 07:31:18"},
+{"id":"3","name":"Seeder2 Singh","image":null,"email":"seeder3singh@gmail.com","password":"$2y$10$2cDsOcjx5K\/pjfVeGrokeeKaf7LekvfXJyopXdEVPNWyGB9ugMZXW","gender":null,"address":null,"username":null,"contact":null,"facebook_url":null,"twitter_url":null,"linkedin_url":null,"google_url":null,"verifyToken":"3540","status":"1","remember_token":null,"created_at":"2018-11-20 07:31:18","updated_at":"2018-11-20 07:31:18"}
+]
+}
+]
