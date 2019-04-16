@@ -1,0 +1,43 @@
+Try This: #1
+Develop an inheritance hierarchy based upon a Polygon class that has
+abstract methods area( ) and perimeter( ). Implement classes Triangle,
+Quadrilateral, Pentagon, Hexagon, and Octagon that extend this base
+class, with the obvious meanings for the area( ) and perimeter( ) methods.
+Also implement classes, IsoscelesTriangle, EquilateralTriangle, Rectangle,
+and Square, that have the appropriate inheritance relationships. Finally,
+write a simple program that allows users to create polygons of the
+various types and input their geometric dimensions, and the program then
+outputs their area and perimeter. For extra effort, allow users to input
+polygons by specifying their vertex coordinates and be able to test if two
+such polygons are similar.
+
+
+
+Try this #2
+Write a set of Python classes that can simulate an Internet application in
+which one party, Alice, is periodically creating a set of packets that she
+wants to send to Bob. An Internet process is continually checking if Alice
+has any packets to send, and if so, it delivers them to Bob’s computer, and
+Bob is periodically checking if his computer has a packet from Alice, and,
+if so, he reads and deletes it.
+
+
+
+Try this #3
+Write a Python program that simulates a system that supports the functions
+of an e-book reader. You should include methods for users of your
+system to “buy” new books, view their list of purchased books, and read
+their purchased books. Your system should use actual books, which have
+expired copyrights and are available on the Internet, to populate your set
+of available books for users of your system to “purchase” and read
+
+
+
+Session B and C Study material week 2
+Version Control (git). 
+Controlflow with some examples.
+Operating system interfaces (os module)
+Core tools for working with streams (io module)
+Python Class , Instance, Inheritance, Iterators, Generators
+Python modules and packages
+Pep8, documentation standards for class methods
