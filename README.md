@@ -6,4 +6,5 @@
 - Data Science
 - OOP Python
 - Advance Python topics
+- Data Structure and Algorithm
 - Mini Projects
