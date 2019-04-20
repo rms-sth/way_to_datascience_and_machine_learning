@@ -1,1 +1,9 @@
-# way_to_datascience_and_machine_learning2
+# Overall projects and practices
+## Topics covered:
+- Machine Learning
+- Deep Learning
+- Data Visualization
+- Data Science
+- OOP Python
+- Advance Python topics
+- Mini Projects
